@@ -12,6 +12,9 @@
 		<?php include('includes/navbar.php') ?>
 		<!-- ========== END Navigation Bar ========= -->
 
+		<!-- ########## Banner ########## -->
+		<?php include('includes/banner.php') ?>
+
 		<!-- __________ Page Content __________ -->
 		<div class="content">
 			<h2 class="content-title">Recent Articles</h2>
