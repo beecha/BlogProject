@@ -21,7 +21,7 @@
 		<!-- __________ END Page Content __________ -->
 
 		<!-- .......... Page Footer .......... -->
-		<?php include('include/footer.php')	?>
+		<?php include('includes/footer.php')	?>
 		<!-- .......... END Page Footer .......... -->
 
 	</div>
