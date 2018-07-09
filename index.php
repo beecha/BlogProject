@@ -1,4 +1,5 @@
-<?php require_once('includes/head_section.php') ?>
+<?php require_once('config.php') ?>
+<?php require_once( ROOT_PATH . 'includes/head_section.php') ?>
 
 	<title>Blog | Home</title>
 </head>
@@ -9,11 +10,11 @@
 	<div class="container">
 
 		<!-- ========== Navigation Bar ========== -->
-		<?php include('includes/navbar.php') ?>
+		<?php include( ROOT_PATH . 'includes/navbar.php') ?>
 		<!-- ========== END Navigation Bar ========= -->
 
 		<!-- ########## Banner ########## -->
-		<?php include('includes/banner.php') ?>
+		<?php include( ROOT_PATH . 'includes/banner.php') ?>
 
 		<!-- __________ Page Content __________ -->
 		<div class="content">
@@ -24,7 +25,7 @@
 		<!-- __________ END Page Content __________ -->
 
 		<!-- .......... Page Footer .......... -->
-		<?php include('includes/footer.php')	?>
+		<?php include( ROOT_PATH . 'includes/footer.php')	?>
 		<!-- .......... END Page Footer .......... -->
 
 	</div>
