@@ -58,6 +58,7 @@ form input:focus {
 	text-decoration: none;
 }
 
+/********** CONTAINER **********/
 .container {
 	width: 80%;
 	margin: 0px auto;
