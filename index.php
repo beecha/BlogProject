@@ -1,4 +1,4 @@
-<?php require_once('include/head_section.php') ?>
+<?php require_once('includes/head_section.php') ?>
 
 	<title>Blog | Home</title>
 </head>
