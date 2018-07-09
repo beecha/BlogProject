@@ -1,6 +1,5 @@
-<?php
-	require_once('include/head_section.php')
-?>
+<?php require_once('include/head_section.php') ?>
+
 	<title>Blog | Home</title>
 </head>
 
@@ -10,9 +9,7 @@
 	<div class="container">
 
 		<!-- ========== Navigation Bar ========== -->
-		<?php
-			include('includes/navbar.php')
-		?>
+		<?php include('includes/navbar.php') ?>
 		<!-- ========== END Navigation Bar ========= -->
 
 		<!-- __________ Page Content __________ -->
@@ -24,9 +21,7 @@
 		<!-- __________ END Page Content __________ -->
 
 		<!-- .......... Page Footer .......... -->
-		<?php
-			include('include/footer.php')
-		?>
+		<?php include('include/footer.php')	?>
 		<!-- .......... END Page Footer .......... -->
 
 	</div>
