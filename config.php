@@ -2,7 +2,7 @@
 	session_start();
 
 	// Connect to database
-	$conn = mysqli_connect("localhost", "root", "", "blogphp");
+	$conn = mysqli_connect("localhost", "dummy", "dummy123", "blogphp");
     
     // If connection failed to connect
     if (!$conn) {
